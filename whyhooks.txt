@@ -1,0 +1,10 @@
+what ?
+
+allow to use react features without writing a class
+state of a components
+
+why?
+
+avoid this keyword 
+replace class
+allow reuse statefull codes
